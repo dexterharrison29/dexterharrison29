@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a BASIC compiler written in python<br>🌱 I'm currently learning C/C++
+🔭 I'm currently working on finding the creativity to work on something<br>🌱 I'm currently learning C/C++
 
 
 # 💻 Tech Stack:
