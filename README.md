@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on a simulated computer written in python<br>🌱 I'm currently learning C/C++
+lol
 
 
 # 💻 Tech Stack:
